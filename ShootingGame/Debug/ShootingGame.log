@@ -1,0 +1,9 @@
+﻿  playGround.cpp
+c:\users\kapoo\onedrive\문서\서울게임아카데미\강의 파일\20171117 강의파일(슈팅대전)\playground.cpp(248): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kapoo\onedrive\문서\서울게임아카데미\강의 파일\20171117 강의파일(슈팅대전)\playground.cpp(249): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  건너뛰고 있습니다... (관련된 변경 내용 없음)
+  winMain.cpp
+  gameNode.cpp
+  ShootingGame.vcxproj -> C:\Users\kapoo\OneDrive\문서\서울게임아카데미\과제\20171117 과제)슈팅게임\ShootingGame\Debug\ShootingGame.exe
+  ShootingGame.vcxproj -> C:\Users\kapoo\OneDrive\문서\서울게임아카데미\과제\20171117 과제)슈팅게임\ShootingGame\Debug\ShootingGame.pdb (Partial PDB)

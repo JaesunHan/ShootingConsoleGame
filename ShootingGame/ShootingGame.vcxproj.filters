@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="2DGameFrameWork">
+      <UniqueIdentifier>{e7f6ffed-4455-40e3-8ecd-e001f85c4bc9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2DGameFrameWork\BackBuffer">
+      <UniqueIdentifier>{51dabd1b-4986-4388-868f-8a939cf6fb8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2DGameFrameWork\Manager">
+      <UniqueIdentifier>{13f722bf-2675-450e-84b9-dcfd1721a954}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2DGameFrameWork\SingletonBase">
+      <UniqueIdentifier>{1a38583a-0487-4fba-8fba-ba888dd31795}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PlayGround">
+      <UniqueIdentifier>{a17558af-4f55-45f0-9e05-282f9d5c9f80}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\강의 파일\20171117 강의파일(슈팅대전)\stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\강의 파일\20171117 강의파일(슈팅대전)\winMain.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\강의 파일\20171117 강의파일(슈팅대전)\backBuffer.cpp">
+      <Filter>2DGameFrameWork\BackBuffer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\강의 파일\20171117 강의파일(슈팅대전)\gameNode.cpp">
+      <Filter>2DGameFrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\강의 파일\20171117 강의파일(슈팅대전)\keyManager.cpp">
+      <Filter>2DGameFrameWork\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\강의 파일\20171117 강의파일(슈팅대전)\playGround.cpp">
+      <Filter>PlayGround</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\강의 파일\20171117 강의파일(슈팅대전)\commonMacroFunction.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\강의 파일\20171117 강의파일(슈팅대전)\randomFunction.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\강의 파일\20171117 강의파일(슈팅대전)\Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\강의 파일\20171117 강의파일(슈팅대전)\stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\강의 파일\20171117 강의파일(슈팅대전)\targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\강의 파일\20171117 강의파일(슈팅대전)\backBuffer.h">
+      <Filter>2DGameFrameWork\BackBuffer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\강의 파일\20171117 강의파일(슈팅대전)\gameNode.h">
+      <Filter>2DGameFrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\강의 파일\20171117 강의파일(슈팅대전)\keyManager.h">
+      <Filter>2DGameFrameWork\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\강의 파일\20171117 강의파일(슈팅대전)\playGround.h">
+      <Filter>PlayGround</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\강의 파일\20171117 강의파일(슈팅대전)\singletonBase.h">
+      <Filter>2DGameFrameWork\SingletonBase</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
